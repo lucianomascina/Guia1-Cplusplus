@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1490666243 source:d:\documentos\hilet\datos 2\ej3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+
